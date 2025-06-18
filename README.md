@@ -1,4 +1,10 @@
+## Hi there 👋
 
+
+
+
+
+<!--
 
 ```
      _/\/\____/\/\______________/\/\____/\/\_______________            
@@ -14,12 +20,6 @@ ______________________________________________________
  _/\/\______/\/\____/\/\/\____/\/\________/\/\/\____/\/\/\/\__/\/\_    
 __________________________________________________________________     
 ```
-
-
-
-
-<!--
-## Hi there 👋
 [![Efe's GitHub stats](https://github-readme-stats-alpha-henna-42.vercel.app/api?username=verynewusername&show_icons=true&theme=github_dark)](https://github-readme-stats-alpha-henna-42.vercel.app)
 **verynewusername/verynewusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
